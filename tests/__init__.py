@@ -1,0 +1,5 @@
+TEST_APP_SECRET_ID = "xxx" 
+TEST_APP_SECRET_KEY = "xxx"
+
+TEST_OPEN_ID = "xxx"
+TEST_BOT_ID = "xxx"

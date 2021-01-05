@@ -1,0 +1,6 @@
+[Core]
+Name = Feishu
+Module = feishu
+
+[Documentation]
+Description = This is the Feishu backend for Err.
